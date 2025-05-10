@@ -1,0 +1,14 @@
+[{
+    "_id": {
+        "$oid": "5ff3e756a9147b36a8fe1cbf"
+    },
+    "name": "admin",
+    "dateField": { "$date": "2025-05-10T00:00:00Z" },
+    "avatar": "/public/avatar/5ff3e756a9147b36a8fe1cbf/avatar.png",
+    "isAuth": false,
+    "email": "admin",
+    "password": "$2a$10$OKBE6Jur48lJL7RQlANxhuIoSvgzKoBqr/Zrqeglv5gQD1ojdX.NG",
+    "__v": 0,
+    "gender": "nam",
+    "roll": "admin"
+}]
