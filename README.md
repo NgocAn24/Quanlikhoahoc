@@ -1,13 +1,6 @@
 # Web Courses CTT2
 - Đồ án môn học - Phát triển ứng dụng website
 - Team up cùng mấy nhóc CTT2
-    -   | Name                | Mssv     |
-        |---------------------|----------|
-        | Võ Thế Minh         | 18120211 |
-        | Mai Ngọc Tú         | 18120253 |
-        | Phạm Tống Bình Minh | 18120210 |
-
-- Thông tin liên hệ: minhthevo123@gmail.com
 
 ## Mô tả đề tài
 - Mục tiêu đề tài: Một ứng dụng website giúp người sử dụng có thể mua và học các khóa học trực tuyến. Cùng với đó làn những giảng viên có thể tạo và quản lý khóa học của mình
